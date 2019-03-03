@@ -1,3 +1,9 @@
+**Note**
+このライブラリは一時的なものです。
+将来的には[Cj-bc/shgif](https://github.com/Cj-bc/shgif)のレポジトリから生成されるようになり、このレポジトリはアーカイブされます。
+
+---
+
 # libshgif
 
 [Cj-bc/shgif](https://github.com/Cj-bc/shgif)用のライブラリです。

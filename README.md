@@ -1,3 +1,9 @@
+**Note**
+This library is for temporary use.
+In the future, those files will be provided by [Cj-bc/shgif](https://github.com/Cj-bc/shgif) itself and this repo will be archived.
+
+---
+
 # libshgif
 
 Library for [Cj-bc/shgif](https://github.com/Cj-bc/shgif)
